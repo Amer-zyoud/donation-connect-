@@ -1,6 +1,6 @@
 {
-    "name": "my_1",
-    "short_name": "my_1",
+    "name": "mypro",
+    "short_name": "mypro",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
